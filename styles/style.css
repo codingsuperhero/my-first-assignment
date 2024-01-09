@@ -54,12 +54,10 @@ font-weight: 500;
 .h{
     width: 802.9px;
 height: 500px;
-position:sticky;
+margin: auto;
 }
 .i{
- padding:    width: 1600px;
- height: 7335px;
-background: #FFF;
+margin: auto;
 }
 
 .j{
@@ -71,4 +69,14 @@ font-weight: 900;
 line-height: 88px; /* 137.5% */
 letter-spacing: 7.04px;
 width: 642px;
+}
+.k{
+    background:  linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%),url('../resources/Vectorrr.png');
+    margin: auto;
+    width: 1200px;
+height: 500px;
+display: flex;
+justify-content: space-between;
+
+padding: 50px
 }
