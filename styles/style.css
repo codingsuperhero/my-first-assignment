@@ -70,6 +70,14 @@ line-height: 88px; /* 137.5% */
 letter-spacing: 7.04px;
 width: 642px;
 }
+
+.dolor{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
 .k{
     background:  linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%),url('../resources/Vectorrr.png');
     margin: auto;
@@ -80,3 +88,172 @@ justify-content: space-between;
 
 padding: 50px
 }
+
+.l{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+
+color: #F00;
+text-align: center;
+}
+
+.m{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+border-radius: 8px;
+background: #F00;
+display: flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+margin: auto;
+}
+
+.n{
+background-color: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+margin: auto;
+width: 1320px;
+height: 482px;
+flex-shrink: 0;
+}
+
+.o{
+display: flex;
+margin-left: 600px;
+gap: 70px;
+}
+ .image{
+    border-radius: 463px;
+        border: 15px solid #F00;}
+
+.p{color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;}
+    .q{color: #070211;
+        font-family: Merriweather;
+        font-size: 48px;
+        font-weight: 900;
+         text-transform: capitalize;}
+
+         .r{color: rgba(7, 2, 17, 0.60);
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 32px;
+            width: 393px; }
+
+  .s{color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;}          
+    .t{color: rgba(7, 2, 17, 0.60);
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 32px; 
+        width: 276px;}
+
+        .u{width: 1600px;
+        height: 1400px;
+    margin: auto;}
+
+    .best{color: #F00;
+        font-family: Inter;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;}
+
+   .portfolio{color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;} 
+    
+    .dolo{color: rgba(7, 2, 17, 0.60);
+        font-family: Inter;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32px; 
+        width: 896px;
+    }
+
+    .png:hover{border: 10px;}
+.newsletter{
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+height: 616px;
+margin: auto;
+padding: 80px;
+}
+   .news{border-block: ;   
+   }
+   .sit{color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;}
+
+    .z{width: 648px;
+        height: 72px;}
+    .w{border-radius: 50px;
+        background: #FFF;
+        border-radius: 0px 50px 50px 0px;
+        background: #F00;}    
+
+        .last{display: flex;}
+
+        .pictures{margin-bottom: auto;}
+.lol{display: flex;}
+
+.shesh{width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    background: #070211;}
+
+.big{color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 166.667% */}
+
+    .call{color: #FFF;
+        font-family: Inter;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 40px; /* 166.667% */}
+
+        .last{color: #FFF;
+            font-family: Inter;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            justify-content: space-around;
+            margin-left: auto;
+        text-align: center;}
+
+        .pictures{text-align: center;}
+        .shesh{margin: auto ;}
+
+            
