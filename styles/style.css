@@ -2,3 +2,73 @@ body{
     font-family: 'Inter', sans-serif;
 font-family: 'Merriweather', serif;
 }
+.a{
+   
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    /* background-image: url('../resources/Banner\ Image.png'); */
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../resources/Banner\ Image.png');
+margin: auto;
+margin-top:100px ;
+    }
+
+   .b{ color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;}
+.c{color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; }
+    .d{padding-top: 130px;}
+.e{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+}
+.f{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.g{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.h{
+    width: 802.9px;
+height: 500px;
+position:sticky;
+}
+.i{
+ padding:    width: 1600px;
+ height: 7335px;
+background: #FFF;
+}
+
+.j{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+width: 642px;
+}
